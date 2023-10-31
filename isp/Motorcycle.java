@@ -13,10 +13,5 @@ public class Motorcycle implements VehicleInterface {
     public void refuel(){
 
     }
-    
-    @Override
-    // this method can't be implemented karena motor tidak punya pintu
-    public void openDoors(){
 
-    }
 }
